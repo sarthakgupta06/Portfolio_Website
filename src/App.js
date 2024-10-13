@@ -4,7 +4,7 @@ import Index from './Index.jsx';
 function App() {
   return (
     <div>
-      <Index />
+      <Index/>
     </div>
   );
 }
